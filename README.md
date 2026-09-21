@@ -1,11 +1,11 @@
-# Structural-Programming-Language-
-Student's Information :-
-Name:Abrar Mohammad Nafis 
-Reg :2025331529
-Department :CSE
-Sylhet engineering College 
+## Structural-Programming-Language-
+Student's Information :-<br>
+Name:Abrar Mohammad Nafis <br>
+Reg :2025331529<br>
+Department :CSE<br>
+Sylhet engineering College <br>
 
-Topic Covered :
+Topic Covered :<br>
 1.C Intro
 2.C Get started
 3.C Syntex 
